@@ -1,0 +1,13 @@
+http://stackoverflow.com/questions/26932891/detect-touching-overlapping-circles-ellipses-with-opencv-and-python?rq=1
+
+http://stackoverflow.com/questions/10404062/opencv-dot-target-detection-not-finding-all-targets-and-found-circles-are-offse/10416428#10416428
+
+http://stackoverflow.com/questions/32797073/opencv-speed-traffic-sign-detection/32798574#32798574
+
+http://stackoverflow.com/questions/35648514/how-to-detect-ellipses-in-image-without-using-fitellipse-in-opencv
+
+http://blogs.mathworks.com/steve/2006/06/02/cell-segmentation/
+
+http://stackoverflow.com/questions/5560507/cell-segmentation-and-fluorescence-counting-in-python?noredirect=1&lq=1
+
+http://stackoverflow.com/questions/5368449/python-and-opencv-how-do-i-detect-all-filledcircles-round-objects-in-an-image?noredirect=1&lq=1
